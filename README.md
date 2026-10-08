@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Kashmira Tamang: AI/ML Trainee, Python Developer, Data Storyteller, Fashion Designer" <a href="https://kashmiratamang.com.np"><img src="banner.svg" width="100%" alt="Kashmira Tamang" /></a> />
+<img src="banner.svg" width="100%" alt="Kashmira Tamang: AI/ML Trainee, Python Developer, Data Storyteller, Fashion Designer" /> 
+<a href="https://kashmiratamang.com.np"><img src="banner.svg" width="100%" alt="Kashmira Tamang" /></a>
 
 <br/><br/>
 
