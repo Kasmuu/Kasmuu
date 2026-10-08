@@ -93,7 +93,7 @@
 - Machine learning model that predicts loan approval decisions
 - Data preprocessing and supervised classification
 - Model evaluation to support data-driven lending
-- 🔗 Kaggle: *add link here*
+- 🔗 Kaggle: (https://www.kaggle.com/code/kashmiratamang/loan-risk-repayment-capacity-prediction)
 
 </details>
 
@@ -135,7 +135,7 @@
 <a href="https://www.linkedin.com/in/kashmira-tamang-0b80992bb"><img src="https://img.shields.io/badge/LinkedIn-D7263D?style=for-the-badge&logo=linkedin&logoColor=F4E3C8" alt="LinkedIn" /></a>
 <a href="mailto:kashmira.kr63@gmail.com"><img src="https://img.shields.io/badge/Email-FFD23F?style=for-the-badge&logo=gmail&logoColor=0B0B0F" alt="Email" /></a>
 <a href="tel:+9779847695095"><img src="https://img.shields.io/badge/Call-+977_9847695095-F4E3C8?style=for-the-badge&logo=googlemessages&logoColor=0B0B0F" alt="Phone" /></a>
-<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-0B0B0F?style=for-the-badge&logo=kaggle&logoColor=FFD23F" alt="Kaggle" /></a>
+<a href="[https://www.kaggle.com/](https://www.kaggle.com/kashmiratamang)"><img src="https://img.shields.io/badge/Kaggle-0B0B0F?style=for-the-badge&logo=kaggle&logoColor=FFD23F" alt="Kaggle" /></a>
 <!-- TODO: add Instagram / portfolio / DataLab links -->
 
 <br/><br/>
