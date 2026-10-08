@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Kashmira Tamang: AI/ML Trainee, Python Developer, Data Storyteller, Fashion Designer" />
+<img src="banner.svg" width="100%" alt="Kashmira Tamang: AI/ML Trainee, Python Developer, Data Storyteller, Fashion Designer" <a href="https://kashmiratamang.com.np"><img src="banner.svg" width="100%" alt="Kashmira Tamang" /></a> />
 
 <br/><br/>
 
@@ -128,7 +128,7 @@
 
 <br/><br/>
 
-<img src="h_connect.svg" width="100%" alt="Send a Telegram: let's connect" />
+<img src="h_connect.svg" width="100%" alt="Send a Text: let's connect" />
 
 <br/>
 
